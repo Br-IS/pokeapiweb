@@ -18,7 +18,7 @@ const listPokemon = async () => {
             <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${index + 1}.png" class="card-img-top" alt="...">
             </div>
             <div class="flip-card-back">
-            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/${index + 1}.png" class="card-img-top" alt="...">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/${index + 1}.png" class="card-img-top" alt="...">
  
      
             </div>
